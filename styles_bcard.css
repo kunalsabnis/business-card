@@ -1,0 +1,25 @@
+body {
+    margin: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img-kunal {
+    width: 140px;
+    border-radius: 10px;
+}
+
+.card {
+    width: 480px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 40px auto;
+    text-align: center;
+    color: #293241;
+    background: #ffbe0b;
+    border-bottom: 6px solid #d8cefe;
+}
+
+.border-dotted {
+    border: 1px dotted blue;
+}
